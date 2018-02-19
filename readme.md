@@ -13,5 +13,5 @@ Problem description: Suppose an encrypted file, encrypted.dat was created by add
 * Can your program subtract 5 from each byte?
 * Can your program write the new bytes to the output file?
 * Did your program close the files?
-* Submit your program and the encrypted file you created using git.
+* Submit your program and the unencrypted file you created using git.
 
